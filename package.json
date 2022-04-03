@@ -1,0 +1,25 @@
+{
+  "name": "huynx42-mysql__nodejs_201_273",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huynx42/Huynx42-mysql__nodejs_201_273.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huynx42/Huynx42-mysql__nodejs_201_273/issues"
+  },
+  "homepage": "https://github.com/Huynx42/Huynx42-mysql__nodejs_201_273#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
